@@ -31,4 +31,4 @@ Execute `go run main.go "any test string you like"` to create SHA256 output.
 
 ## License
 
-See [LICENSE.md](../LICENSE.md)
+See [LICENSE.md](./LICENSE.md)
